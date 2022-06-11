@@ -81,8 +81,8 @@
       "icon": "@PROJECT_PATH@/assets/images/linesdtarusaok-512x512.png",
       "themeColor": "#4284df"
     },
-    "favicon": false,
-    "mbrsiteDomain": "b8zvzyjby2",
+    "favicon": "@PROJECT_PATH@/assets/images/linestar-usa-chico-128x128_1.png",
+    "mbrsiteDomain": "mncy0fq3xm",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
